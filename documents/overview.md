@@ -93,11 +93,27 @@ The brainchild and code child of [Peter Vessenes](#key-people), the first blockc
 | [Official Website](https://personacollective.ai)                                                       | Once you want to jump in, jump in                                   |
 | [Public Github Issue Tracker](https://github.com/vessenes/persona)                                     | It's interesting to see those bugs getting swatted                  |
 
+## Attocash
+
+Intro Text
+
+| Link                  | Description                                              |
+| --------------------- | -------------------------------------------------------- |
+| https://attocash.com/ | The future of micropayments for the Web2 and Web3 worlds |
+
 ## Factorio
 
 Intro Text
 
 ### Links
+
+## Locked.lol
+
+Intro Text
+
+| Link                | Description                                       |
+| ------------------- | ------------------------------------------------- |
+| https://locked.lol/ | The site that has what plants need - Loll1 Tokens |
 
 ## Splatterparty
 
