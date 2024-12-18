@@ -16,7 +16,11 @@ It's already a growing world, some creators creating for a year or more. Here yo
 
 Intro Text
 
-### Links
+| Cofounder       | Links                                                                                                     |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+| Neal Stephenson | <ul><li>https://about.lamina1.com/team/neal-stephenson-founder</li></ul>                                  |
+| Peter Vessenes  | <ul><li>https://about.lamina1.com/team/peter-vessenes-founder</li></ul>                                   |
+| Rebecca Barkin  | <ul><li>https://about.lamina1.com/team/rebecca-barkin</li><li>https://twitter.com/rebeccabarkin</li></ul> |
 
 ## Official Posts
 
@@ -80,13 +84,14 @@ Intro Text
 
 ## Persona Collective
 
-Intro Text
+The brainchild and code child of [Peter Vessenes](#key-people), the first blockchain enabled, NFT backed, blood soaked gaming project in the Lamina1 ecosystem, or potentially the world.
 
 | Link                                                                                                   | Description                                                         |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | [Lamina1 Discord](https://discord.com/channels/981694584474181654/1165307929747005532)                 | All discussion that happens regading Persona Collcetive happen here |
 | [V3 Document](https://discord.com/channels/981694584474181654/1165307929747005532/1234312787086413977) | The most recent document regarding the Persona Collective project   |
 | [Official Website](https://personacollective.ai)                                                       | Once you want to jump in, jump in                                   |
+| [Public Github Issue Tracker](https://github.com/vessenes/persona)                                     | It's interesting to see those bugs getting swatted                  |
 
 ## Factorio
 
