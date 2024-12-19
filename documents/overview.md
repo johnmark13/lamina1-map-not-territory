@@ -18,13 +18,11 @@ These are links to the verified Social Media accounts of Lamina1 itself, you wil
 
 Big project has big public presence and a couple of different web assets. Now with added Korean Metaverse goodness (announced [December 11th 2024](https://medium.com/@LAMINA1/this-just-in-lamina1-announces-merger-with-korean-metaverse-project-anotherworld-to-accelerate-37ca8671c492)).
 
-| Where                                               | What?                                               |
-| --------------------------------------------------- | --------------------------------------------------- |
+| Where                                               | What?                                                |
+| --------------------------------------------------- | ---------------------------------------------------- |
 | [Official Site](https://about.lamina1.com/)         | The public face of Lamina1, start here for goodness. |
 | [Official Medium Blog](https://medium.com/@LAMINA1) | Where to read all of the team generated content.     |
 | [Another World](https://www.anotherworld.game/)     | The official Another World website.                  |
-
-### Links
 
 ## Key People
 
@@ -68,8 +66,8 @@ Links
 
 Intro Text
 
-| Link                                                                                   | Description                                                               |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Link                                                                                   | Description                                                                |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Lamina1 Discord](https://discord.com/channels/981694584474181654/1024442259049033799) | At the highest level, all NFT chatter regarding Lamina1 NFTs happens here. |
 
 ### Cyberlams
