@@ -20,9 +20,9 @@ Big project has big public presence and a couple of different web assets. Now wi
 
 | Where                                               | What?                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [Official Site](https://about.lamina1.com/)         | The public face of Lamina1, start here for goodness |
-| [Official Medium Blog](https://medium.com/@LAMINA1) | Where to read all of the team generated content     |
-| [Another World](https://www.anotherworld.game/)     | The official Another World website                  |
+| [Official Site](https://about.lamina1.com/)         | The public face of Lamina1, start here for goodness. |
+| [Official Medium Blog](https://medium.com/@LAMINA1) | Where to read all of the team generated content.     |
+| [Another World](https://www.anotherworld.game/)     | The official Another World website.                  |
 
 ### Links
 
@@ -70,26 +70,27 @@ Intro Text
 
 | Link                                                                                   | Description                                                               |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1024442259049033799) | At the highest level, all NFT chatter regarding Lamina1 NFTs happens here |
+| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1024442259049033799) | At the highest level, all NFT chatter regarding Lamina1 NFTs happens here. |
 
 ### Cyberlams
 
 Created by the enigmatic Cryptoversal (Discord @cryptoversal) - the platform spanning, genre transmuting, transmedia dreams of the sleeping android. You can also get an NFT, which will drop you into a theme focused flock, and world of creativity.
 
-| Link                                                                                   | Description                                                                               |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1259548840869105744) | The official NFT thread where all good Cyberlam related chat and auctions happen          |
-| [Adim](https://app.incention.io/rooms/2nZPWffaPyML6WinngFb8EMwV2P)                     | Adim, collaborative world building and one of the several homes for the Cyberlam universe |
+| Link                                                                                   | Description                                                                                         |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1259548840869105744) | The official NFT thread where all good Cyberlam related chat and auctions happen.                   |
+| [Adim](https://app.incention.io/rooms/2nZPWffaPyML6WinngFb8EMwV2P)                     | Adim, collaborative world building and one of the several homes for the Cyberlam universe.          |
+| [t2](https://app.t2.world/article/cm38rvcfz12298171zmcxkgco03c)                        | Stories published on T2 can be loved, collected and commented on, bringin you closer to the author. |
 
 ### Laminhouses
 
 Intro Text
 
-| Link                                                                                                    | Description                                                                     |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1255087688734998598)                  | To keep the Lamina1 community in the loop, discussions happen here              |
-| [Laminhouses Discord](https://discord.gg/h6GpuCpUN2)                                                    | However Vauban also runs their own Discord server with much more to engage with |
-| [Laminhouses NFT Collection](https://lamina1.com/collection/0xf137cd350de928379d7973a1487476ec6f54972c) | Check the houses out on the Lamina1 website                                     |
+| Link                                                                                                    | Description                                                                      |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1255087688734998598)                  | To keep the Lamina1 community in the loop, discussions happen here.              |
+| [Laminhouses Discord](https://discord.gg/h6GpuCpUN2)                                                    | However Vauban also runs their own Discord server with much more to engage with. |
+| [Laminhouses NFT Collection](https://lamina1.com/collection/0xf137cd350de928379d7973a1487476ec6f54972c) | Check the houses out on the Lamina1 website.                                     |
 
 ### Lamsters
 
@@ -109,19 +110,19 @@ The brainchild and code child of [Peter Vessenes](#key-people), the first blockc
 
 | Link                                                                                                   | Description                                                                  |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1165307929747005532)                 | All discussion that happens regading Persona Collcetive happen here          |
+| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1165307929747005532)                 | All discussion that happens regading Persona Collcetive happen here.         |
 | [Ed's Fanfic](https://attocash.com/persona.html)                                                       | Not only fiction, Lore & games too, probably the actual best place to start. |
-| [V3 Document](https://discord.com/channels/981694584474181654/1165307929747005532/1234312787086413977) | The most recent document regarding the Persona Collective project            |
-| [Official Website](https://personacollective.ai)                                                       | Once you want to jump in, jump in                                            |
-| [Public Github Issue Tracker](https://github.com/vessenes/persona)                                     | It's interesting to see those bugs getting swatted                           |
+| [V3 Document](https://discord.com/channels/981694584474181654/1165307929747005532/1234312787086413977) | The most recent document regarding the Persona Collective project.           |
+| [Official Website](https://personacollective.ai)                                                       | Once you want to jump in, jump in.                                           |
+| [Public Github Issue Tracker](https://github.com/vessenes/persona)                                     | It's interesting to see those bugs getting swatted.                          |
 
 ## Attocash
 
 Intro Text
 
-| Link                  | Description                                              |
-| --------------------- | -------------------------------------------------------- |
-| https://attocash.com/ | The future of micropayments for the Web2 and Web3 worlds |
+| Link                  | Description                                               |
+| --------------------- | --------------------------------------------------------- |
+| https://attocash.com/ | The future of micropayments for the Web2 and Web3 worlds. |
 
 ## Factorio
 
@@ -133,9 +134,9 @@ Intro Text
 
 Intro Text
 
-| Link                | Description                                       |
-| ------------------- | ------------------------------------------------- |
-| https://locked.lol/ | The site that has what plants need - Loll1 Tokens |
+| Link                | Description                                        |
+| ------------------- | -------------------------------------------------- |
+| https://locked.lol/ | The site that has what plants need - Loll1 Tokens. |
 
 ## Splatterparty
 
@@ -147,8 +148,8 @@ Intro Text
 
 L1 the official Token of the Lamina1 Avalanche L1 chain is now trading actively and officially on two exchanges.
 
-| Link                                                                           | Description                    |
-| ------------------------------------------------------------------------------ | ------------------------------ |
-| [🔗 Gate_io x LAMINA1 Page](https://www.gate.io/price/lamina1-l1)              | Gate.io token information page |
-| [🔗 MEXC x LAMINA1 Page](https://www.mexc.com/price/L1)                        | MEXC token information page    |
-| [🔗 MEXC x LAMINA1/USDT Exchange](https://www.mexc.com/en-GB/exchange/L1_USDT) | MEXC x USDT token trading page |
+| Link                                                                           | Description                     |
+| ------------------------------------------------------------------------------ | ------------------------------- |
+| [🔗 Gate_io x LAMINA1 Page](https://www.gate.io/price/lamina1-l1)              | Gate.io token information page. |
+| [🔗 MEXC x LAMINA1 Page](https://www.mexc.com/price/L1)                        | MEXC token information page.    |
+| [🔗 MEXC x LAMINA1/USDT Exchange](https://www.mexc.com/en-GB/exchange/L1_USDT) | MEXC x USDT token trading page. |
