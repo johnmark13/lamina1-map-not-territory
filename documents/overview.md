@@ -74,9 +74,12 @@ Intro Text
 
 ### Cyberlams
 
-Intro Text
+Created by the enigmatic Cryptoversal (Discord @cryptoversal) - the platform spanning, genre transmuting, transmedia dreams of the sleeping android. You can also get an NFT, which will drop you into a theme focused flock, and world of creativity.
 
-#### Links
+| Link                                                                                   | Description                                                                               |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1259548840869105744) | The official NFT thread where all good Cyberlam related chat and auctions happen          |
+| [Adim](https://app.incention.io/rooms/2nZPWffaPyML6WinngFb8EMwV2P)                     | Adim, collaborative world building and one of the several homes for the Cyberlam universe |
 
 ### Laminhouses
 
@@ -104,12 +107,13 @@ Intro Text
 
 The brainchild and code child of [Peter Vessenes](#key-people), the first blockchain enabled, NFT backed, blood soaked gaming project in the Lamina1 ecosystem, or potentially the world.
 
-| Link                                                                                                   | Description                                                         |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1165307929747005532)                 | All discussion that happens regading Persona Collcetive happen here |
-| [V3 Document](https://discord.com/channels/981694584474181654/1165307929747005532/1234312787086413977) | The most recent document regarding the Persona Collective project   |
-| [Official Website](https://personacollective.ai)                                                       | Once you want to jump in, jump in                                   |
-| [Public Github Issue Tracker](https://github.com/vessenes/persona)                                     | It's interesting to see those bugs getting swatted                  |
+| Link                                                                                                   | Description                                                                  |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| [Lamina1 Discord](https://discord.com/channels/981694584474181654/1165307929747005532)                 | All discussion that happens regading Persona Collcetive happen here          |
+| [Ed's Fanfic](https://attocash.com/persona.html)                                                       | Not only fiction, Lore & games too, probably the actual best place to start. |
+| [V3 Document](https://discord.com/channels/981694584474181654/1165307929747005532/1234312787086413977) | The most recent document regarding the Persona Collective project            |
+| [Official Website](https://personacollective.ai)                                                       | Once you want to jump in, jump in                                            |
+| [Public Github Issue Tracker](https://github.com/vessenes/persona)                                     | It's interesting to see those bugs getting swatted                           |
 
 ## Attocash
 
