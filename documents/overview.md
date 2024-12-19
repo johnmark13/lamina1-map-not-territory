@@ -1,8 +1,10 @@
 # Lamina1 - An Overview of Useful Things
 
-It's already a growing world, some creators creating for a year or more. Here you will find the shortest of overviews and links to all key exciting things.
+It's already a growing world, some creators have been creating for a year or more. Here you will find the shortest of overviews and links to all key exciting things.
 
 ## Socials
+
+These are links to the verified Social Media accounts of Lamina1 itself, you will find some social media links for [Key People](#key-people) below.
 
 | Social        | Description                                  |
 | ------------- | -------------------------------------------- |
@@ -12,23 +14,39 @@ It's already a growing world, some creators creating for a year or more. Here yo
 | 📢 TG Channel | https://t.me/Lamina1Ann                      |
 | 💬 TG Group   | https://t.me/Lamina1Official                 |
 
-## Key People
+## Official Stuff
 
-Intro Text
+Big project has big public presence and a couple of different web assets. Now with added Korean Metaverse goodness (announced [December 11th 2024](https://medium.com/@LAMINA1/this-just-in-lamina1-announces-merger-with-korean-metaverse-project-anotherworld-to-accelerate-37ca8671c492)).
 
-| Cofounder       | Links                                                                                                     |
-| --------------- | --------------------------------------------------------------------------------------------------------- |
-| Neal Stephenson | <ul><li>https://about.lamina1.com/team/neal-stephenson-founder</li></ul>                                  |
-| Peter Vessenes  | <ul><li>https://about.lamina1.com/team/peter-vessenes-founder</li></ul>                                   |
-| Rebecca Barkin  | <ul><li>https://about.lamina1.com/team/rebecca-barkin</li><li>https://twitter.com/rebeccabarkin</li></ul> |
-
-## Official Posts
-
-Intro Text
+| Where                                               | What?                                               |
+| --------------------------------------------------- | --------------------------------------------------- |
+| [Official Site](https://about.lamina1.com/)         | The public face of Lamina1, start here for goodness |
+| [Official Medium Blog](https://medium.com/@LAMINA1) | Where to read all of the team generated content     |
+| [Another World](https://www.anotherworld.game/)     | The official Another World website                  |
 
 ### Links
 
-## Key Documents
+## Key People
+
+The Top Brains, or at least the Top Humans at Lamina1 can be found on the [Lamina1 Website](https://about.lamina1.com/#team) - quickly you will see that you are in the presence of greatness.
+
+| Cofounder       | Words                                                                                                                                                                                | Links                                                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Neal Stephenson | Visionary, author, and polymath. Previously Chief Futurist at Magic Leap. First employee at Blue Origin. Oh, coined the now ubiquitous term, Metaverse.                              | <ul><li>https://about.lamina1.com/team/neal-stephenson-founder</li></ul>                                                             |
+| Peter Vessenes  | Investor and technologist. Crypto pioneer. Co-founder, Chairman, Bitcoin Foundation. Vessenes holds merely an Sc. B in Mathematics with a focus on cryptography, but he reads a lot. | <ul><li>https://about.lamina1.com/team/peter-vessenes-founder</li></ul>                                                              |
+| Rebecca Barkin  | Emerging tech and entertainment executive. MSG Sphere, Magic Leap, Lyve, EMI-Capitol Records. Startup veteran. Mother and mentor.                                                    | <ul><li>https://about.lamina1.com/team/rebecca-barkin</li><li>https://twitter.com/rebeccabarkin</li><li>Discord @rex_arkin</li></ul> |
+
+But, a company is more than its founders, who else is there in the ecosystem and why should you care when they pop up on Discord...
+
+| Who              | Huh?                                                                                                                     | Links                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| Will Carter      | CTO @Lamina1, creative technologist protecting creators.                                                                 | Discord @\_willcarter |
+| Ivy / Casey YMMV | Director of Content & Commnuity @Lamina1.                                                                                | Discord @ivystive     |
+| Kat              | Community Moderator par excellence, won't DM you first, Ultimate Warrior.                                                | Discord @kat_defiants |
+| Alchemist 19     | Thor. Creator of Gold from Lead. Founder of Alchemist Club Studios. Educator. Says lol, a lot.                           | Discord @alchemist19  |
+| Ed Keyes         | Tireless creative, philospher, creator, scientist, lasers, cryptographic challenges, writer of fanfic, inventor of games | Discord @edkeyes      |
+
+## Key Documents & Community Content
 
 Intro Text
 
