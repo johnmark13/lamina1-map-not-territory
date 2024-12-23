@@ -46,7 +46,7 @@ But, a company is more than its founders, who else is there in the ecosystem and
 
 ## Key Documents & Community Content
 
-Lamina1 loves the people and the people love Lamina1. Lamina1 and some people have written documents on what you need you need to know, these documents have everything to get you a long way passed started.
+Lamina1 loves the people and the people love Lamina1. Lamina1 and some people have written documents on what you need you need to know, these documents have everything to get you a long way past started.
 
 | Document                                                                                                                                          | Author      | What is it?                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
