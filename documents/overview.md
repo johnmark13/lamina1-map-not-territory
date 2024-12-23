@@ -46,9 +46,15 @@ But, a company is more than its founders, who else is there in the ecosystem and
 
 ## Key Documents & Community Content
 
-Intro Text
+Lamina1 loves the people and the people love Lamina1. Lamina1 and some people have written documents on what you need you need to know, these documents have everything to get you a long way passed started.
 
-### Links
+| Document                                                                                                                                          | Author      | What is it?                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [Lamina1 Whitepaper](https://uploads-ssl.webflow.com/63fe332d7b9ae4159d741e55/6435ef54d6c2e389be334d99_L1_Whitepaper_2023.pdf)                    | Lamina1     | The document to rule them all                                                                                          |
+| [Tokenomics & Governance](https://cdn.prod.website-files.com/63fe332d7b9ae4159d741e55/672e6440e8b3c99c886ffc74_Governance%20Whitepaper%203.0.pdf) | Lamina1     | The official document describing all the tokens, how they relate and how governance will work in the Lamina1 ecosystem |
+| [Official Docs](https://docs.lamina1.com/docs/introduction/)                                                                                      | Lamina1     | Official Platform Documentation                                                                                        |
+| [Staking Guide](https://medium.com/@xPersey/lamina1-full-staking-guide-eng-8338a864ad81)                                                          | FckTrend    | A high level guide to staking and rewards in the Lamina1 ecosystem                                                     |
+| [Tokenomics Guide](https://medium.com/@timguruguru/what-is-tokenomics-353caa438101)                                                               | timguruguru | Another high level guide to staking and tokenomics in the Lamina1 ecosystem                                            |
 
 ## The Hub
 
