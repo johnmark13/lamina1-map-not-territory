@@ -131,13 +131,9 @@ Intro Text
 
 Intro Text
 
-#### Links
-
 ### Lam1nals
 
 Intro Text
-
-#### Links
 
 ## Persona Collective
 
@@ -158,8 +154,6 @@ Intro Text
 | Link                  | Description                                               |
 | --------------------- | --------------------------------------------------------- |
 | https://attocash.com/ | The future of micropayments for the Web2 and Web3 worlds. |
-
-### Links
 
 ## Locked.lol
 
