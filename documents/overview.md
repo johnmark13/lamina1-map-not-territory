@@ -185,7 +185,7 @@ Erasmas can often be found Snarking around on the [Project Launches](https://dis
 | W.E.N          | The Wave Encryption Nexus - Create your avatar with Erasmas's unique tooling and use it s your membership card                                                                                                      | [Splatterparty W.E.N](https://splatterparty.xyz/wen)                |
 | Stickerbooks   | Bought some party artworks, buy a digital sticker album to stick them in and show them off                                                                                                                          | [Splatterparty Stickerbooks](https://splatterparty.xyz/stickerbook) |
 | Marketplace    | Your gateway to buying and selling NFts in the L1 ecosystem, find the collections that you love on he Lamina1 Discord, then go and see what is for sale on Splatterparty - guarded by the registry office (Erasmas) | [Splatterparty Marketplace](https://splatterparty.xyz/market)       |
-| Factorio       | For creating and managing your own NFT collections on Lamina1 - will get it's own instruction manual in time!                                                                                                       | [Factorio](https://factorio.splatterparty.xyz)                      |
+| Factorio       | For creating and managing your own NFT collections on Lamina1 - will get it's own instruction manual in time! [Coming Soon](pages/factorio.md)                                                                      | [Factorio](https://factorio.splatterparty.xyz)                      |
 
 ## Trading
 
