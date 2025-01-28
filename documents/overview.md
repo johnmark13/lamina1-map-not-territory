@@ -36,13 +36,44 @@ The Top Brains, or at least the Top Humans at Lamina1 can be found on the [Lamin
 
 But, a company is more than its founders, who else is there in the ecosystem and why should you care when they pop up on Discord...
 
-| Who              | Huh?                                                                                                                     | Links                 |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| Will Carter      | CTO @Lamina1, creative technologist protecting creators.                                                                 | Discord @\_willcarter |
-| Ivy / Casey YMMV | Director of Content & Commnuity @Lamina1.                                                                                | Discord @ivystive     |
-| Kat              | Community Moderator par excellence, won't DM you first, Ultimate Warrior.                                                | Discord @kat_defiants |
-| Alchemist 19     | Thor. Creator of Gold from Lead. Founder of Alchemist Club Studios. Educator. Says lol, a lot.                           | Discord @alchemist19  |
-| Ed Keyes         | Tireless creative, philospher, creator, scientist, lasers, cryptographic challenges, writer of fanfic, inventor of games | Discord @edkeyes      |
+| Who              | Huh?                                                                                                                     | Links                             |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| Will Carter      | CTO @Lamina1, creative technologist protecting creators.                                                                 | Discord @\_willcarter             |
+| Ivy / Casey YMMV | Director of Content & Commnuity @Lamina1.                                                                                | Discord @ivystive                 |
+| Alchemist 19     | Thor. Creator of Gold from Lead. Founder of Alchemist Club Studios. Educator. Says lol, a lot.                           | Discord @alchemist19              |
+| Ed Keyes         | Tireless creative, philospher, creator, scientist, lasers, cryptographic challenges, writer of fanfic, inventor of games | Discord @edkeyes                  |
+| Defiants         | A team of Community Managers, always active on Discord - will _never_ DM you first                                       | [Defiants](https://defiants.org/) |
+
+## Defiants
+
+The team who keep the community playing nicely together, make the Discord a fun, friendly and engaging place to be, and who will use moderating privileges on you should you be breaking the rules!
+
+| Who      | Huh?                                                                      | Links                      |
+| -------- | ------------------------------------------------------------------------- | -------------------------- |
+| Isaac    | Name comes first in the alphabet and uses their real face!                | Discord @isaac_defiants    |
+| Ivan     |                                                                           | Discord @ivan_defiants     |
+| Jessica  |                                                                           | Discord @jessica_defiants  |
+| Kat      | Community Moderator par excellence, won't DM you first, Ultimate Warrior. | Discord @kat_defiants      |
+| Kay      |                                                                           | Discord @kay_defiants      |
+| Michael  |                                                                           | Discord @michael_defiants  |
+| Nathan   |                                                                           | Discord @nathan_defiants   |
+| Oliver   |                                                                           | Discord @oliver_defiants   |
+| Oliwer   |                                                                           | Discord @oliwer_defiants   |
+| Ryan     |                                                                           | Discord @ryan_defiants     |
+| Sophie   |                                                                           | Discord @sophie_defiants   |
+| Tony     |                                                                           | Discord @tony_defiants     |
+| Uzor     |                                                                           | Discord @uzor_defiants     |
+| Voslauer |                                                                           | Discord @voslauer_defiants |
+
+## Ambassadors
+
+A growing group of dedicated Lamina1 fans who act within the commnunity to help signpost great things that are going on, as well as acting outside the community evangelising everything great about the Lamina1 ecosystem and its future place in a Blockchain, IP, Metaverse world.
+
+Ambassadors get to have a nifty grey color designated role in Discord, and you should see us on Telegram, X, Bluesky and at your local crypto conference too.
+
+[Ivy](#key-people) is our leader.
+
+More to come....
 
 ## Key Documents & Community Content
 
@@ -128,10 +159,6 @@ Intro Text
 | --------------------- | --------------------------------------------------------- |
 | https://attocash.com/ | The future of micropayments for the Web2 and Web3 worlds. |
 
-## Factorio
-
-Intro Text
-
 ### Links
 
 ## Locked.lol
@@ -142,11 +169,23 @@ Intro Text
 | ------------------- | -------------------------------------------------- |
 | https://locked.lol/ | The site that has what plants need - Loll1 Tokens. |
 
-## Splatterparty
+## Splatterparty, Factorio, Kongbucks, and More
 
-Intro Text
+The brain child of @Erasmas, here is where a big fat chunk of community driven fun times can be had. The Burbclave of Greater Hong Kong lives here and is your gateway to Alpha experiences.
 
-### Links
+You want a memecoin with a purpose trading on a quadratic bonding curve, used to buy citizenhip, goods or services in GHK, Kongbucks are your friend. On-chain collaborative pixel art creation, avatars (Waveforms), Stickerbooks, NFT creation tools and OH HELL YES a marketplace, Erasmas's playground is somewhere that we can all hang out.
+
+Erasmas can often be found Snarking around on the [Project Launches](https://discord.com/channels/981694584474181654/1239349336442146816) channel in Discord.
+
+| Project        | Description                                                                                                                                                                                                         | Link                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Kongbucks      | Start here, connect your wallet (it's safe), and load up                                                                                                                                                            | [Splatterparty ATM](https://splatterparty.xyz/kongbucks)            |
+| GHK Membership | Once you have some Kongbucks, mint your membership by clicking on the membership link at the bottom of the page                                                                                                     | [Splatterparty Membership](https://splatterparty.xyz/kongbucks)     |
+| The Party      | Here you can spend your Kongbucks on past created collaborative canvases, or take part in the latest creation by clicking on "Splatterparty in progress!"                                                           | [Splatterparty](https://splatterparty.xyz)                          |
+| W.E.N          | The Wave Encryption Nexus - Create your avatar with Erasmas's unique tooling and use it s your membership card                                                                                                      | [Splatterparty W.E.N](https://splatterparty.xyz/wen)                |
+| Stickerbooks   | Bought some party artworks, buy a digital sticker album to stick them in and show them off                                                                                                                          | [Splatterparty Stickerbooks](https://splatterparty.xyz/stickerbook) |
+| Marketplace    | Your gateway to buying and selling NFts in the L1 ecosystem, find the collections that you love on he Lamina1 Discord, then go and see what is for sale on Splatterparty - guarded by the registry office (Erasmas) | [Splatterparty Marketplace](https://splatterparty.xyz/market)       |
+| Factorio       | For creating and managing your own NFT collections on Lamina1 - will get it's own instruction manual in time!                                                                                                       | [Factorio](https://factorio.splatterparty.xyz)                      |
 
 ## Trading
 
