@@ -1,10 +1,14 @@
+---
+icon: map-location
+---
+
 # Lamina1 - An Overview of Useful Things
 
 It's already a growing world, some creators have been creating for a year or more. Here you will find the shortest of overviews and links to all key exciting things.
 
 ## Socials
 
-These are links to the verified Social Media accounts of Lamina1 itself, you will find some social media links for [Key People](#key-people) below.
+These are links to the verified Social Media accounts of Lamina1 itself, you will find some social media links for [Key People](overview.md#key-people) below.
 
 | Social        | Description                                  |
 | ------------- | -------------------------------------------- |
@@ -48,22 +52,22 @@ But, a company is more than its founders, who else is there in the ecosystem and
 
 The team who keep the community playing nicely together, make the Discord a fun, friendly and engaging place to be, and who will use moderating privileges on you should you be breaking the rules!
 
-| Who      | Huh?                                                                      | Links                      |
-| -------- | ------------------------------------------------------------------------- | -------------------------- |
-| Isaac    | Name comes first in the alphabet and uses their real face!                | Discord @isaac_defiants    |
-| Ivan     |                                                                           | Discord @ivan_defiants     |
-| Jessica  |                                                                           | Discord @jessica_defiants  |
-| Kat      | Community Moderator par excellence, won't DM you first, Ultimate Warrior. | Discord @kat_defiants      |
-| Kay      |                                                                           | Discord @kay_defiants      |
-| Michael  |                                                                           | Discord @michael_defiants  |
-| Nathan   |                                                                           | Discord @nathan_defiants   |
-| Oliver   |                                                                           | Discord @oliver_defiants   |
-| Oliwer   |                                                                           | Discord @oliwer_defiants   |
-| Ryan     |                                                                           | Discord @ryan_defiants     |
-| Sophie   |                                                                           | Discord @sophie_defiants   |
-| Tony     |                                                                           | Discord @tony_defiants     |
-| Uzor     |                                                                           | Discord @uzor_defiants     |
-| Voslauer |                                                                           | Discord @voslauer_defiants |
+| Who      | Huh?                                                                      | Links                       |
+| -------- | ------------------------------------------------------------------------- | --------------------------- |
+| Isaac    | Name comes first in the alphabet and uses their real face!                | Discord @isaac\_defiants    |
+| Ivan     |                                                                           | Discord @ivan\_defiants     |
+| Jessica  |                                                                           | Discord @jessica\_defiants  |
+| Kat      | Community Moderator par excellence, won't DM you first, Ultimate Warrior. | Discord @kat\_defiants      |
+| Kay      |                                                                           | Discord @kay\_defiants      |
+| Michael  |                                                                           | Discord @michael\_defiants  |
+| Nathan   |                                                                           | Discord @nathan\_defiants   |
+| Oliver   |                                                                           | Discord @oliver\_defiants   |
+| Oliwer   |                                                                           | Discord @oliwer\_defiants   |
+| Ryan     |                                                                           | Discord @ryan\_defiants     |
+| Sophie   |                                                                           | Discord @sophie\_defiants   |
+| Tony     |                                                                           | Discord @tony\_defiants     |
+| Uzor     |                                                                           | Discord @uzor\_defiants     |
+| Voslauer |                                                                           | Discord @voslauer\_defiants |
 
 ## Ambassadors
 
@@ -71,7 +75,7 @@ A growing group of dedicated Lamina1 fans who act within the commnunity to help 
 
 Ambassadors get to have a nifty grey color designated role in Discord, and you should see us on Telegram, X, Bluesky and at your local crypto conference too.
 
-[Ivy](#key-people) is our leader.
+[Ivy](overview.md#key-people) is our leader.
 
 More to come....
 
@@ -137,7 +141,7 @@ Intro Text
 
 ## Persona Collective
 
-The brainchild and code child of [Peter Vessenes](#key-people), the first blockchain enabled, NFT backed, blood soaked gaming project in the Lamina1 ecosystem, or potentially the world.
+The brainchild and code child of [Peter Vessenes](overview.md#key-people), the first blockchain enabled, NFT backed, blood soaked gaming project in the Lamina1 ecosystem, or potentially the world.
 
 | Link                                                                                                   | Description                                                                  |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -179,7 +183,7 @@ Erasmas can often be found Snarking around on the [Project Launches](https://dis
 | W.E.N          | The Wave Encryption Nexus - Create your avatar with Erasmas's unique tooling and use it s your membership card                                                                                                      | [Splatterparty W.E.N](https://splatterparty.xyz/wen)                |
 | Stickerbooks   | Bought some party artworks, buy a digital sticker album to stick them in and show them off                                                                                                                          | [Splatterparty Stickerbooks](https://splatterparty.xyz/stickerbook) |
 | Marketplace    | Your gateway to buying and selling NFts in the L1 ecosystem, find the collections that you love on he Lamina1 Discord, then go and see what is for sale on Splatterparty - guarded by the registry office (Erasmas) | [Splatterparty Marketplace](https://splatterparty.xyz/market)       |
-| Factorio       | For creating and managing your own NFT collections on Lamina1 - will get it's own instruction manual in time! [Coming Soon](pages/factorio.md)                                                                      | [Factorio](https://factorio.splatterparty.xyz)                      |
+| Factorio       | For creating and managing your own NFT collections on Lamina1 - will get it's own instruction manual in time! [Coming Soon](projects/factorio.md)                                                                   | [Factorio](https://factorio.splatterparty.xyz)                      |
 
 ## Trading
 
@@ -187,6 +191,6 @@ L1 the official Token of the Lamina1 Avalanche L1 chain is now trading actively 
 
 | Link                                                                           | Description                     |
 | ------------------------------------------------------------------------------ | ------------------------------- |
-| [🔗 Gate_io x LAMINA1 Page](https://www.gate.io/price/lamina1-l1)              | Gate.io token information page. |
+| [🔗 Gate\_io x LAMINA1 Page](https://www.gate.io/price/lamina1-l1)             | Gate.io token information page. |
 | [🔗 MEXC x LAMINA1 Page](https://www.mexc.com/price/L1)                        | MEXC token information page.    |
 | [🔗 MEXC x LAMINA1/USDT Exchange](https://www.mexc.com/en-GB/exchange/L1_USDT) | MEXC x USDT token trading page. |
